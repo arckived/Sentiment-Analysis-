@@ -13,16 +13,6 @@ A sentiment classification system that fine-tunes BERT (Hugging Face Transformer
 - **~50,000** labeled posts (Reddit and Twitter), 3-class sentiment (positive / negative / neutral)
 - **85% accuracy** on the held-out test set
 
-## Project structure
-
-| File | Purpose |
-|---|---|
-| `sentiment analysis using transformers_NLTK.ipynb` | Main notebook: preprocessing, BERT fine-tuning, evaluation |
-| `IPython Notebook.ipynb` | [describe what this one covers, e.g. the TF-IDF topic clustering / trend-report step] |
-| `Python File.py` | [describe: standalone script version, or a specific pipeline stage] |
-
-*(Fill in the two bracketed rows above with a one-line description of what's actually in each file, then this table alone tells a visitor exactly where to look.)*
-
 ## Setup
 
 ```bash
